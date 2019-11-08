@@ -1,11 +1,3 @@
-# Recipe Book
-
-## Topics
-
-- database modeling.
-- migration scripts.
-- seeding.
-- knex.
 
 ## Assignment
 
